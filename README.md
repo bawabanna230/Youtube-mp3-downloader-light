@@ -12,7 +12,7 @@
    $ sudo apt-get install youtube-dl   
    ```
 
-2. Clone and extract the repository
+2. clone and extract the repository
 
 3. Run the ytd.py file
 
